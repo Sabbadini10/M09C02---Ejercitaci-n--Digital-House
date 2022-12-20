@@ -21,9 +21,9 @@ const ContentRowMovies = function ({title, color, icon, data})  {
     )
 }
 ContentRowMovies.defaultProps = {
-    title: "Hola",
-    color: "success",
-    icon: "fa-film",
+    title: "Mandalorian",
+    color: "dark",
+    icon: "border-left-primary",
     data: 0
 }
 export default ContentRowMovies;
